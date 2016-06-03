@@ -60,6 +60,11 @@ $().ready(function(){
   }
   },'#modal_up');
 
+//.navbar-brandをクリックした時リロード
+$('.navbar-brand').click(function(){
+  location.reload();
+});
+
 });
 
 
