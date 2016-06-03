@@ -1,0 +1,16 @@
+img.modalbutton {
+  width: 300px;
+  height: 250px;
+  margin: 10px;
+  padding: 10px;
+  float: left;
+}
+
+.modal{
+  width: 100%;
+}
+
+.modal-body img{
+  width: 500px;
+  height: 300px;
+}
